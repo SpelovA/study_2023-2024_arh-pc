@@ -16,7 +16,6 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
@@ -176,6 +175,7 @@ header-includes:
 Отправляем прошлую лабораторную работу(рис. @fig:017).
 
 ![Проверяем отправку ЛБ1](image/39.png){#fig:017 width=70%}
+
 # Выводы
 
 Мы познакомились с языком разметки Markdown и оформили отчет в ней и загрузили на Github.
